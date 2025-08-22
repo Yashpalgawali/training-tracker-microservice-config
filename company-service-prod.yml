@@ -2,7 +2,7 @@ build:
   version:
     2.0
 
-company-service-prod:
+company-service:
   message: "Welcome to Company Microservice PROD API"
   contactDetails:
     name: "Yashpal Gawali"
