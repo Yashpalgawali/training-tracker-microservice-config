@@ -2,7 +2,7 @@ build:
   version:
     2.0
 
-designation-service-prod:
+designation-service:
   message: "WelCome to Designation Microservice PROD API"
   contactDetails:
     name: "Shaurya"
