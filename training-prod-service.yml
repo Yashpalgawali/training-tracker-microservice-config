@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+training-prod-service:
+  message: "Welcome to TRAINING Microservice PROD Profile"
+  contactDetails:
+    name: "Samrat"
+    email: "samrat@gm.com"
+  onCallSupport:
+    - (000)310-8714
+    - (000)487-3102
