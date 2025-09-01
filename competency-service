@@ -1,0 +1,12 @@
+build:
+  version:
+    2.0
+
+competency-service:
+  message: "Welcome to Competency Microservice PROD API"
+  contactDetails:
+    name: "Samyak Pagare"
+    email: "sampag@gmil.com"
+  onCallSupport:
+    - (111)789-7145
+    - (111)547-7412
