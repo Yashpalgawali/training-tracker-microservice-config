@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+training-time-slot-service:
+  message: "Welcome to Training Time Slot Microservice DEFAULT Profile"
+  contactDetails:
+    name: "Sumedh"
+    email: "dumedh@gml.com"
+  onCallSupport:
+    - (000)310-8714
+    - (000)487-3102
