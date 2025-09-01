@@ -1,9 +1,9 @@
 build:
   version:
-    2.0
+    1.0
 
 competency-service:
-  message: "Welcome to Competency Microservice PROD API"
+  message: "Welcome to Competency Microservice default API"
   contactDetails:
     name: "Samyak Pagare"
     email: "sampag@gmil.com"
