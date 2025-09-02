@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 training-service:
-  message: "Welcome to TRAINING Microservice DEFAULT (Updated) Profile"
+  message: "Welcome to TRAINING Microservice DEFAULT Profile"
   contactDetails:
     name: "Samyak"
     email: "samyak@gmail.com"
