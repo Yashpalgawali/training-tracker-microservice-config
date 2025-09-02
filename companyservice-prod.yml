@@ -1,6 +1,5 @@
 build:
-  version:
-    2.0
+  version: 2.0
 
 companyservice:
   message: "Welcome to Company Microservice PROD API"
