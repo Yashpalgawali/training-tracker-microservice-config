@@ -3,7 +3,7 @@ build:
     2.0
 
 company-service:
-  message: "Welcome to Company Microservice PROD  (UPDATED) API"
+  message: "Welcome to Company Microservice PROD API"
   contactDetails:
     name: "Yashpal Gawali"
     email: "crankyash@gmail.com"
