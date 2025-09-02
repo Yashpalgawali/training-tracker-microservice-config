@@ -2,7 +2,7 @@
 build:
   version: 1.0
 
-company-service:
+companyservice:
   message: "Welcome to Company Microservice DEFAULT Profile"
   contactDetails:
     name: "Samyak"
