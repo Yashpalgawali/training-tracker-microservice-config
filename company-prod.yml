@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+company:
+  message: "Welcome to Training Tracker company related PROD APIs"
+  contactDetails:
+    name: "Renee Aishwarya - Product Owner"
+    email: "renee@gmail.com"
+  onCallSupport:
+    - (453)478-124
+    - (236)203-1234

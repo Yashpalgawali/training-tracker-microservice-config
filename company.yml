@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+company:
+  message: "Welcome to Training Tracker company related local APIs"
+  contactDetails:
+    name: "Yashpal Gawali - Developer"
+    email: "gawaliyashpal@gmail.com"
+  onCallSupport:
+    - (555)555-124
+    - (555)523-1234

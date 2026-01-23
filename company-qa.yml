@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+company:
+  message: "Welcome to Training Tracker company related QA APIs"
+  contactDetails:
+    name: "Samyak Pagare - Quality Lead"
+    email: "samyak@gmail.com"
+  onCallSupport:
+    - (666)265-3765
+    - (666)734-8371
