@@ -1,0 +1,11 @@
+build:
+  version: "2.3"
+
+designation:
+  message: "Welcome to Training Tracker Designation related QA APIs"
+  contactDetails:
+    name: "Shaurya Gawali - Quality Lead"
+    email: "gawaliyashpal@gmail.com"
+  onCallSupport:
+    - (477)475-4874
+    - (477)475-9854
