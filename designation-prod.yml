@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+designation:
+  message: "Welcome to Training Tracker Designation related Prod APIs"
+  contactDetails:
+    name: "Samrat Gawali - Product Owner"
+    email: "crankyash@gmail.com"
+  onCallSupport:
+    - (111)456-4874
+    - (222)777-9854
