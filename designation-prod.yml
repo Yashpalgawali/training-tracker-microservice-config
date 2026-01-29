@@ -1,6 +1,5 @@
 build:
   version: "3.0"
-
 designation:
   message: "Welcome to Training Tracker Designation related Prod APIs"
   contactDetails:
