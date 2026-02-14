@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 company:
-  message: "Welcome to Training Tracker company related local APIs"
+  message: "Welcome to Training Tracker company related Docker APIs"
   contactDetails:
     name: "Yashpal Gawali - Developer"
     email: "gawaliyashpal@gmail.com"
