@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 company:
-  message: "Welcome to Training Tracker company related QA APIs"
+  message: "Welcome to Training Tracker company related Quality Assurance APIs"
   contactDetails:
     name: "Samyak Pagare - Quality Lead"
     email: "samyak@gmail.com"
